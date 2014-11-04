@@ -15,7 +15,12 @@
 
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
+<<<<<<< HEAD
 *.sln
 *.csproj
 *.meta
 2ndRepoTest/2ndRepoTest.userprefs
+=======
+2ndRepoTest/Assets/Scenes.meta
+2ndRepoTest/Assets/Scenes/sceneTest1.unity.meta
+>>>>>>> 93b33ae5bb3ef9ce3e2571a667c26fadd6e62670
