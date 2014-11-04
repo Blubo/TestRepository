@@ -15,3 +15,7 @@
 
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
+*.sln
+*.csproj
+*.meta
+2ndRepoTest/2ndRepoTest.userprefs
