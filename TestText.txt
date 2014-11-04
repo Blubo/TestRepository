@@ -2,5 +2,9 @@ Blubo's modification
 
 Virgule's modification
 
+<<<<<<< HEAD
 
 Test de la feature bla bha blaha
+=======
+Blubo's 2nd modification
+>>>>>>> bcee6d127f0f0a7caaccce1e56ee191166378ea0
